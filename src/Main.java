@@ -1,8 +1,8 @@
 // This is a basic Java program template, put a short description of what this
 // program accomplishes here
 //
-// Your name
-// Date
+// Hannah Luebbering
+// August 27, 2020
 
 public class Main {
 
